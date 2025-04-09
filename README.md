@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash Sharma</h1>
-<h3 align="center">🚀 Passionate Developer | Learning AI, Web Dev, and Building Cool Projects</h3>
+<h1 align="center">Hi, I'm Yash Sharma</h1>
+<h3 align="center">Passionate Developer | Learning AI, Web Dev, and Building Cool Projects</h3>
 
 - Currently working on **React app**
 - I’m learning **React, Python, and Generative AI**
