@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">🚀 Passionate Developer | Learning AI, Web Dev, and Building Cool Projects</h3>
 
-- 🔭 I’m currently working on **a bar & café booking React app**
-- 🌱 I’m learning **React, Python, and Generative AI**
-- 👨‍💻 All of my projects are available at [github.com/YashSharma64](https://github.com/YashSharma64)
-- 💬 Ask me about **Web Dev, Python, or College Projects**
-- 📫 How to reach me: **yashsharma64@gmail.com**
-- ⚡ Fun fact: *I dislike C++ and love UI design*
+- Currently working on **React app**
+- I’m learning **React, Python, and Generative AI**
+- All of my projects are available at [github.com/YashSharma64](https://github.com/YashSharma64)
+- Ask me about **Web Dev, Python, or College Projects**
+- How to reach me: **yashsharma64@gmail.com**
+- Fun fact: *I dislike C++ and love UI design*
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-> ⭐️ Keep Hustling, Keep Building!
+> - Keep Hustling, Keep Building!
