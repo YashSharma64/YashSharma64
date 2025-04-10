@@ -5,7 +5,7 @@
 - I’m learning **React, Python, and Generative AI**
 - All of my projects are available at [github.com/YashSharma64](https://github.com/YashSharma64)
 - Ask me about **Web Dev, Python, or College Projects**
-- How to reach me: **yashsharma64@gmail.com**
+- How to reach me: **yashsharma.aiml@gmail.com**
 - Fun fact: *I dislike C++ and love UI design*
 
 ---
