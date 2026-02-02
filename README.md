@@ -1,16 +1,37 @@
-<h1 align="center">Hi, I'm Yash Sharma</h1>
-<h3 align="center">Passionate Developer | Learning AI, Web Dev, and Building Cool Projects</h3>
-
-- Currently working on **React Js**
-- I’m learning **React, Python, and Generative AI**
-- All of my projects are available at [github.com/YashSharma64](https://github.com/YashSharma64)
-- Ask me about **Web Dev, Python, or College Projects**
-- How to reach me: **yashsharma.aiml@gmail.com**
-- Fun fact: *I dislike C++ and love UI design*
+<h1 align="center">Yash Sharma</h1>
+<h3 align="center">Frontend-focused Developer | Product & UI-Oriented Engineer</h3>
 
 ---
 
-### 📊 GitHub Stats
+### 👋 About Me
+- BTech CSE student building **real-world web products**
+- Strong focus on **React, clean UI, and system thinking**
+- Actively exploring **AI-powered features** beyond basic web apps
+
+---
+
+### 🚀 Current Focus
+- Building projects using **React.js** with production-like structure  
+- Learning **Python & Generative AI** for practical applications  
+- Designing interfaces where **UX is as important as code quality**
+
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **AI & Data:** Python, basics of Generative AI  
+- **Tools:** Git, GitHub, Figma  
+
+---
+
+### 📌 Projects
+All projects 👉 [github.com/YashSharma64](https://github.com/YashSharma64)
+
+I prefer **building → shipping → iterating** rather than tutorial-only learning.
+
+---
+
+### 📊 GitHub Activity
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashSharma64&show_icons=true&theme=radical)
 
@@ -20,11 +41,10 @@
 
 ---
 
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-6960ab326/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsharma.aiml@gmail.com)
+### 📫 Connect
+- **Email:** yashsharma.aiml@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/yash-sharma-6960ab326/
 
 ---
 
-> - Keep Hustling, Keep Building!
+> I value clarity, ownership, and building products that actually get used.
