@@ -11,14 +11,8 @@
 ---
 
 ## 🌐 Socials
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-sharma-6960ab326/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/your_instagram_username" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+- **LinkedIn:** https://www.linkedin.com/in/yash-sharma-6960ab326/  
+- **Email:** yashsharma.aiml@gmail.com  
 
 ---
 
@@ -38,33 +32,32 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma64&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma64&theme=radical" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YashSharma64&show_icons=true&theme=radical&cache_seconds=1800" 
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashSharma64&theme=radical&margin-w=12"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YashSharma64&theme=radical&no-frame=true&margin-w=12" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+    alt="Dev Quote"
+  />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YashSharma64&limit=5&theme=radical"/>
-</p>
-
----
-
-📫 **Contact:** yashsharma.aiml@gmail.com  
-
-> I focus on clarity, ownership, and building things that actually get used.
+> I value clarity, ownership, and building things that actually get used.
