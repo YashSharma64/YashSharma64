@@ -5,7 +5,7 @@ AI/ML + Full Stack Product Engineer
 </h3>
 
 <p align="center">
-Building AI-powered products with strong product thinking, scalable architectures, and modern full-stack systems.
+Building AI-powered products with strong product thinking, scalable backend systems, and modern full-stack engineering.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building AI-powered products with strong product thinking, scalable architecture
 
 ## 🚀 About Me
 
-I’m a product-focused AI engineer passionate about building real-world systems that combine machine learning, scalable backend engineering, and intuitive user experiences.
+I’m a product-focused AI engineer passionate about building real-world systems that combine machine learning, scalable backend architectures, and intuitive user experiences.
 
 My work primarily revolves around:
 - AI-powered web applications
@@ -27,18 +27,6 @@ My work primarily revolves around:
 - Fast and scalable backend architectures
 
 I enjoy transforming ideas into deployable products with clean engineering and practical AI implementation.
-
----
-
-## 🧠 Engineering Focus
-
-- Product Thinking
-- AI Integration Expertise
-- Full-Stack Product Development
-- Real-Time Data Systems
-- ML-Powered Applications
-- Scalable API Architectures
-- Modern Frontend Engineering
 
 ---
 
@@ -64,8 +52,8 @@ I enjoy transforming ideas into deployable products with clean engineering and p
 ![Prisma](https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma)
 
 ## AI / ML
-![GenAI](https://img.shields.io/badge/Generative_AI-111?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-111?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-111?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
 
 ## Tools & Workflow
@@ -76,53 +64,15 @@ I enjoy transforming ideas into deployable products with clean engineering and p
 
 ---
 
-# 📌 Featured Projects
+# ⚡ Engineering Focus
 
-## 🔹 Compensey AI
-
-AI-powered competitor intelligence platform engineered using FastAPI, React, and machine learning systems.
-
-### Highlights
-- Analyzed **100K+ customer reviews**
-- Generated sentiment, growth, and risk scores in **under 10 seconds**
-- Built 3 ML models:
-  - TF-IDF + Logistic Regression
-  - Random Forest
-  - Isolation Forest
-- Implemented explainability pipelines for actionable insights
-- Optimized analysis from 100K samples → 500 intelligent samples for fast inference
-- Integrated Gemini API + LangChain for strategic insight generation
-- Deployed using Render & Vercel
-
-### Stack
-`FastAPI` `React` `scikit-learn` `LangChain` `Gemini API` `Python`
-
----
-
-## 🔹 Prepzo AI
-
-Deadline-aware AI exam preparation engine powered by machine learning and LLM workflows.
-
-### Highlights
-- Uses 5 ML models + LLM orchestration
-- Generates personalized study schedules
-- Auto-discovers topics from uploaded PDFs
-- Prioritizes preparation based on remaining time
-- Predicts high-probability exam questions
-- Adapts dynamically to each student’s context
-
-### Stack
-`Python` `Machine Learning` `LLMs` `FastAPI` `React`
-
----
-
-# ⚡ Current Focus
-
-- Building production-ready AI applications
-- Exploring intelligent agent workflows
-- AI + Full Stack system design
-- ML-powered product experiences
-- Real-world AI integration systems
+- Product Thinking
+- AI Integration Expertise
+- Full-Stack Product Development
+- Scalable API Architectures
+- ML-Powered Applications
+- Modern Frontend Engineering
+- Real-World AI Systems
 
 ---
 
@@ -145,13 +95,13 @@ Deadline-aware AI exam preparation engine powered by machine learning and LLM wo
 # 🌐 Connect
 
 - 📧 yashsharma.aiml@gmail.com
-- 💼 LinkedIn:  
+- 💼 LinkedIn  
   https://www.linkedin.com/in/yash-sharma-6960ab326/
 
 ---
 
 <p align="center">
   <i>
-    Building AI systems that combine engineering, product thinking, and real-world impact.
+    Building intelligent systems with engineering, product thinking, and AI.
   </i>
 </p>
