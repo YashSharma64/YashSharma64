@@ -19,7 +19,7 @@ Building AI-powered products with scalable backend systems, modern full-stack en
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I’m a product-focused AI engineer passionate about building real-world systems that combine machine learning, scalable backend architectures, and intuitive user experiences.
 
@@ -34,7 +34,7 @@ I enjoy transforming ideas into deployable products with clean engineering and p
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
