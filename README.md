@@ -74,18 +74,6 @@ I enjoy transforming ideas into deployable products with clean engineering and p
 
 ---
 
-# ⚡ Engineering Focus
-
-- Product Thinking
-- AI Integration Expertise
-- Full-Stack Product Development
-- Scalable API Architectures
-- ML-Powered Applications
-- Modern Frontend Engineering
-- Real-World AI Systems
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
