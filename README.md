@@ -86,10 +86,18 @@ I enjoy transforming ideas into deployable products with clean engineering and p
 
 ---
 
-# 📊 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSharma64&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashSharma64&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSharma64&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSharma64&theme=tokyonight" />
 </p>
 
 ---
